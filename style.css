@@ -6,12 +6,13 @@ html, body {
 
 .helloworld
 {
+    position: relative;
     height: 200px;
     width: 200px;
     background: orange;
     margin: 0 auto;
-    left: 5px;
-    bottom: 7px;
+    right: 5px;
+    top: 7px;
 }
 
 
